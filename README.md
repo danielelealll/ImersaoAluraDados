@@ -1,2 +1,2 @@
 # ImersaoAluraDados
-Curso de imersão a dados oferecido pela plataforma Alura
+Curso de imersão a dados oferecido pela plataforma Alura. Desafios propostos
